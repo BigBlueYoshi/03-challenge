@@ -1,0 +1,14 @@
+.B1{
+    background-color:yellow;
+}
+.B2{
+    background-color: orange;
+}
+div{
+    border-bottom: 3px;
+    border-right: 3px;
+    border-left: 3px;
+    border-top: 5px;
+    border-style: solid;
+    
+}
